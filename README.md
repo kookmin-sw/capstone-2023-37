@@ -28,7 +28,7 @@
 ### 1. 프로잭트 소개
 
 프로젝트
-대략적인 예상: 사용자의 성별, 나이, 종교, 날씨 등에 따라 관련 음악, 전달, 음식을 추천하는 앱 Instagram나 RedBook(CHINA) ==' 안드로이드 개발   
+대략적인 예상: 사용자의 성별, 나이, 종교, 날씨 등에 따라 관련 음악, 옷, 음식을 추천하는 앱 Instagram나 RedBook(CHINA) ==' 안드로이드 개발   
 IDE ：Android studio  
 Language：JAVA  
 
