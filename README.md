@@ -1,7 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10123930&assignment_repo_type=AssignmentRepo)
 # Welcome to GitHub
 
-캡스톤 팀 생성을 축하합니다.
+캡스톤 팀 37
 
 ## 팀소개 및 페이지를 꾸며주세요.
 
@@ -18,12 +17,10 @@
   - Theme Chooser에서 태마선택
   - 수정후 팀페이지 확인하여 점검.
 
-**팀페이지 주소** -> https://seonghyeon555.github.io '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2023년 0조  https://kookmin-sw.github.io/capstone-2023-00/
+**팀페이지 주소** -> https://seonghyeon555.github.io 
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+
 
 ### 1. 프로잭트 소개
 
