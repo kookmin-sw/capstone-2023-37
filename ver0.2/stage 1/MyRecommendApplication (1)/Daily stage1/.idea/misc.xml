@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_add_post.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_constellation.xml" value="0.19947916666666668" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_food_detils.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_login.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_main.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_news_details.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_register.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_splash.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_weater.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/activity_web_view.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/dialog_toast.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/fragment_blank.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/fragment_chat.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/fragment_mine.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/fragment_weather.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/item_constellation_layout.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/item_musci_layout.xml" value="0.21770833333333334" />
+        <entry key="..\:/bishe stage/stage 1/MyRecommendApplication (1)/Daily stage1/app/src/main/res/layout/title_layout.xml" value="0.21770833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
