@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    tools:context=".activity.AddFeedbackActivity">
+    <include layout="@layout/title_layout"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_10"
+                android:minLines="5"
+                android:id="@+id/content_edit"
+                android:layout_margin="@dimen/dp_10"
+                android:hint="Write down your opinion or suggestion"
+                android:gravity="start"
+                android:textSize="15sp"
+                android:inputType="textMultiLine"
+                android:background="@drawable/shape_edit_bg"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/_007FFF"
+                android:layout_margin="@dimen/dp_10"
+                android:id="@+id/login_btn"
+                android:text="add"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
