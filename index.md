@@ -29,7 +29,7 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 
 
 ### 5. Project 구조
-![image](https://github.com/kookmin-sw/capstone-2023-37/assets/65642685/5990745f-b27b-4983-a6dd-7cf0707079a6)
+<img src="https://github.com/kookmin-sw/capstone-2023-37/assets/65642685/5990745f-b27b-4983-a6dd-7cf0707079a6" alt="Editor" width="700">
 
 
 ### 6. 사용법
