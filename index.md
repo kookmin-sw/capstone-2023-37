@@ -22,7 +22,8 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 <img src="./img/kw.png" alt="Editor" width="175" height="175">  
 조원 주좌건 OOOO3578  
 <img src="./img/zhu.png" alt="Editor" width="175" height="175"> 
-
+  
+  
 
 ## 4. 시나리오
 <img src="https://github.com/kookmin-sw/capstone-2023-37/assets/65642685/3dbef67a-ae51-4e22-a5d8-7a3c944531e2" alt="Editor" width="700">
