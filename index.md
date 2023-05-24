@@ -13,18 +13,18 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 프로젝트 소개하는 영상을 추가하세요
 
 
-<video src="/video/video.mp4" controls="controls" width="500" height="300"></video>
+<video src="/capstone-2023-37/video/video.mp4" controls="controls" width="500" height="300"></video>
 
 
 
 ## 3. 팀 소개
 
 팀장 오성현 OOOO3513  
-<img src="/img/oh.png" alt="Editor" width="175" height="175">  
+<img src="/capstone-2023-37/img/oh.png" alt="Editor" width="175" height="175">  
 조원 관지동 OOOO3027  
-<img src="/img/kw.png" alt="Editor" width="175" height="175">  
+<img src="/capstone-2023-37/img/kw.png" alt="Editor" width="175" height="175">  
 조원 주좌건 OOOO3578  
-<img src="/img/zhu.png" alt="Editor" width="175" height="175"> 
+<img src="/capstone-2023-37/img/zhu.png" alt="Editor" width="175" height="175"> 
 
 ### Support or Contact
 
