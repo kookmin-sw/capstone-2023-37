@@ -22,12 +22,12 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 
 팀장 오성현 OOOO3513  
 
-<img src="/img/oh.png" alt="Editor" width="175" heigh="175">  
+<img src="/img/oh.png" alt="Editor" width="175" height="175">  
 
 조원 관지동 OOOO3027  
-<img src="/img/kw.png" alt="Editor" width="175" heigh="175">  
+<img src="/img/kw.png" alt="Editor" width="175" height="175">  
 조원 주좌건 OOOO3578  
-<img src="/img/zhu.png" alt="Editor" width="175" heigh="175"> 
+<img src="/img/zhu.png" alt="Editor" width="175" height="175"> 
 
 ### Support or Contact
 
