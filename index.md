@@ -31,7 +31,7 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 <a href=".\stage7 feedback\MyRecommendApplication(6)\MyRecommendApplication\app\release\stage7.apk">앱 다운로드</a>
 
 
-### POST
+## 5. POST
 <img src="./img/post.jpg" alt="Editor" width="500" height="600">
 
 
