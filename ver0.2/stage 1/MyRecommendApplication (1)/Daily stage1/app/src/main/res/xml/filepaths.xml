@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-
-    <!--错误的 不需要自己 未使用-->
-    <external-path
-        name="my_images"
-        path="Pictures"/>
-</paths>
