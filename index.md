@@ -14,7 +14,7 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 
 
 <video width="320" height="240" controls>
-    <source src="../video/video.mp4" type="video/mp4">
+    <source src="/video/video.mp4" type="video/mp4">
 </video>
 
 
