@@ -10,11 +10,8 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 
 
 ## 2. 소개 영상
-프로젝트 소개하는 영상을 추가하세요
-
 
 <video src="./video/video.mp4" controls="controls" width="500" height="300"></video>
-
 
 
 ## 3. 팀 소개
@@ -27,11 +24,17 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 <img src="./img/zhu.png" alt="Editor" width="175" height="175"> 
 
 
-## 4. 사용법
+### 4. 시나리오
+![image](https://github.com/kookmin-sw/capstone-2023-37/assets/65642685/3dbef67a-ae51-4e22-a5d8-7a3c944531e2)
+
+
+### 5. Project 구조
+![image](https://github.com/kookmin-sw/capstone-2023-37/assets/65642685/5990745f-b27b-4983-a6dd-7cf0707079a6)
+
+
+### 6. 사용법
 <a href="./release/dailylife.apk">앱 다운로드</a>
 
 
-## 5. 포스터 사진
+### 7. 포스터 사진
 <img src="./img/post.jpg" alt="Editor" width="500" height="600">
-
-
