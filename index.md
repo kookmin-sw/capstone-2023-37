@@ -13,9 +13,8 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 프로젝트 소개하는 영상을 추가하세요
 
 
-<video width="320" height="240" controls>
-    <source src="/video/video.mp4" type="video/mp4">
-</video>
+<video src="/video/video.mp4" controls="controls" width="500" height="300"></video>
+
 
 
 ## 3. 팀 소개
