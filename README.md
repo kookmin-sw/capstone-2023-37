@@ -1,6 +1,7 @@
-# Welcome to GitHub
+# Welcome to KMU Capstone Desgin Project 2023 
+# Team 37 Daily Life
 
-캡스톤 팀 37
+캡스톤 팀 37_DailyLife
 
 ## 팀소개 및 페이지를 꾸며주세요.
 
