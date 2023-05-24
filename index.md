@@ -19,13 +19,13 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 ```
 
 ## 3. 팀 소개
-팀을 소개하세요.  
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.  
 
 팀장 오성현 OOOO3513  
+![image](/img/oh.png)
 조원 관지동 OOOO3027  
-조원 주좌건 OOOO3578  
+![image](/img/kw.png)
+조원 주좌건 OOOO3578 
+![image](/img/zh.png) 
 
 ### Support or Contact
 
