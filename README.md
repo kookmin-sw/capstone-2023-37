@@ -17,7 +17,7 @@
   - Theme Chooser에서 태마선택
   - 수정후 팀페이지 확인하여 점검.
 
-**팀페이지 주소** -> https://seonghyeon555.github.io 
+****팀페이지 주소**** -> https://seonghyeon555.github.io 
 
 
 
