@@ -26,6 +26,12 @@ Daliylife 앱은 한국 유학생들의 현재 한국 생활에 대한 빠른 �
 조원 주좌건 OOOO3578  
 <img src="./img/zhu.png" alt="Editor" width="175" height="175"> 
 
+
+## 4. 사용법
+앱 다운로드
+<a href=".\stage7 feedback\MyRecommendApplication(6)\MyRecommendApplication\app\release\stage7.apk">앱 다운로드</a>
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
